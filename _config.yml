@@ -2,6 +2,7 @@ name: kadima
 favicon: null
 layout_spectrum: 0.55349
 typography_spectrum: 0.49075
+title: Kadima
 cta:
   domain: null
   bucket: null

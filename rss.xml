@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[kadima]]></title>
-        <description><![CDATA[kadima]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Kadima]]></title>
+        <description><![CDATA[Kadima]]></description>
+        <link>https://thegrid.ai/kadima/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 15:08:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 13:16:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kadima/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Flirting.....</p>]]></description>
+            <link>https://thegrid.ai/kadima/398d6a58-5055-44d9-b78f-4ab94e5a9f5b/index.html</link>
+            <guid isPermaLink="false">398d6a58-5055-44d9-b78f-4ab94e5a9f5b</guid>
+            <pubDate>Thu, 28 Jan 2016 13:15:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d408707-04cc-4abb-b29c-bac3ee1febf8.JPG">]]></description>
-            <link>undefined65836759-0e06-49c3-b1b5-7ca81b2c1159/index.html</link>
+            <link>https://thegrid.ai/kadima/65836759-0e06-49c3-b1b5-7ca81b2c1159/index.html</link>
             <guid isPermaLink="false">65836759-0e06-49c3-b1b5-7ca81b2c1159</guid>
             <pubDate>Mon, 11 Jan 2016 15:08:23 GMT</pubDate>
         </item>

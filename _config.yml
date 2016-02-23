@@ -1,4 +1,4 @@
-name: kadima
+name: Kadima
 favicon: null
 layout_spectrum: 0.21916
 typography_spectrum: 0.1428
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#c1d741'
-    - '#66b5e3'
-    - '#1d77b9'
-    - '#f72928'
-    - '#1d0000'
+    - '#0e0c0d'
+    - '#ada1ad'
+    - '#7e0000'
+    - '#42671a'
+    - '#913b54'
   brandStrength: 0.75
   lightness: 0.75
   saturation: 0.625

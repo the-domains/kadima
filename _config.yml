@@ -6,9 +6,9 @@ color:
     - '#3B5000'
     - '#637D00'
     - '#F8F083'
-  brandStrength: 0.25563
+  brandStrength: 0.494369
   lightness: 0.382882
-  rhythmicContrast: 0.487612
+  rhythmicContrast: 0.565315
   saturation: 0.320945
 cta: {}
 layout_spectrum: 0.55543

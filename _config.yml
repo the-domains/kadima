@@ -6,10 +6,10 @@ color:
     - '#3B5000'
     - '#637D00'
     - '#F8F083'
-  brandStrength: 0
+  brandStrength: 0.25563
   lightness: 0.382882
   rhythmicContrast: 0.487612
-  saturation: 0.1509
+  saturation: 0.320945
 cta: {}
 layout_spectrum: 0.55543
 name: Kadima

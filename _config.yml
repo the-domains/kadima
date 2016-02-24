@@ -1,29 +1,18 @@
-name: Kadima
-favicon: null
-layout_spectrum: 0.55543
-typography_spectrum: 0.5086
-title: Kadima
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#aed0f3'
-    - '#a79200'
-    - '#3b5000'
-    - '#637d00'
-    - '#f8f083'
-  brandStrength: 0.3125
+    - '#AED0F3'
+    - '#A79200'
+    - '#3B5000'
+    - '#637D00'
+    - '#F8F083'
+  brandStrength: 0.239864
   lightness: 0.75
-  saturation: 0.4375
   rhythmicContrast: 0.75
+  saturation: 0.333333
+cta: {}
+layout_spectrum: 0.55543
+name: Kadima
+opengraph: {}
 purpose: []
+typography_spectrum: 0.655405

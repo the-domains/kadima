@@ -1,4 +1,19 @@
-analytics: {}
+name: Kadima
+favicon: null
+layout_spectrum: 0.55543
+typography_spectrum: 0.534909
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#AED0F3'
@@ -8,11 +23,6 @@ color:
     - '#F8F083'
   brandStrength: 0.384009
   lightness: 0.504503
+  saturation: 0.4375
   rhythmicContrast: 0.51126
-  saturation: 0.497747
-cta: {}
-layout_spectrum: 0.55543
-name: Kadima
-opengraph: {}
 purpose: []
-typography_spectrum: 0.534909

@@ -1,29 +1,27 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "MEET THE HOSTS: RICHIE 'MR. FEARLESS' STANISCLAUS"
-datePublished: '2016-03-31T01:15:06.125Z'
-dateModified: '2016-03-31T01:15:05.701Z'
-title: ''
+description: "From the borough of San\nJuan Trinidad, Richardson Stanisclaus better known as Richie Mr.Fearless\nStanisclaus for the last 11 years has been committed to doing the work of God.\nHe has been saved since the age of seven, and has been active in ministry ever\nsince. From the church choir to being a musician in church to being one of the\nCaribbean’s top gospel ministers. His ministry in terms of gospel music began\nback in 2004 as a saxophonist for Sherwin Gardner and the Flow Masters Family.\_"
+datePublished: '2016-03-31T01:26:38.191Z'
+dateModified: '2016-03-31T01:26:37.111Z'
+title: "MEET THE HOSTS: RICHIE 'MR. FEARLESS' STANISCLAUS"
 author: []
+sourcePath: _posts/2016-03-31-meet-the-hosts-richie-mr-fearless-stanisclaus.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-31-meet-the-hosts-richie-mr-fearless-stanisclaus.md
-published: true
-url: meet-the-hosts-richie-mr-fearless-stanisclaus/index.html
-_type: Article
+_type: Blurb
 
 ---
-MEET THE HOSTS: RICHIE 'MR. FEARLESS' STANISCLAUS
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bceb40b-9a8d-4552-a41e-2d842dc0df02.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdc06f61-4425-4716-a43a-0272e822f10d.jpg)
 
 From the borough of San
 Juan Trinidad, Richardson Stanisclaus better known as Richie Mr.Fearless

@@ -6,13 +6,13 @@ color:
     - '#3B5000'
     - '#637D00'
     - '#F8F083'
-  brandStrength: 0.503378
+  brandStrength: 0.356982
   lightness: 0.788288
-  rhythmicContrast: 0.63063
+  rhythmicContrast: 0.519144
   saturation: 0.760135
 cta: {}
-layout_spectrum: 0.911036
+layout_spectrum: 0.667792
 name: Kadima
 opengraph: {}
 purpose: []
-typography_spectrum: 0.757882
+typography_spectrum: 0.792792

@@ -4,14 +4,21 @@
         <description><![CDATA[Kadima]]></description>
         <link>https://thegrid.ai/kadima/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 16:45:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 16:35:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kadima/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kadima?]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89a807a9-da78-40d6-8f4d-93ba4db2cc0e.JPG">]]></description>
+            <link>https://thegrid.ai/kadima/e5dc3dd1-6d7e-4872-8633-bc1b4e8b0356/index.html</link>
+            <guid isPermaLink="false">e5dc3dd1-6d7e-4872-8633-bc1b4e8b0356</guid>
+            <pubDate>Tue, 07 Jun 2016 16:35:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4cba473-d7de-48c5-b3dd-5194103938b6.jpg">]]></description>
             <link>https://thegrid.ai/kadima/meet-kelly-ann-henry-single-27-years-old-born-and-raised/index.html</link>
             <guid isPermaLink="false">4d952e39-1890-4901-8e29-edf989a3bf94</guid>
-            <pubDate>Wed, 01 Jun 2016 16:45:00 GMT</pubDate>
+            <pubDate>Wed, 01 Jun 2016 16:48:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kadima | His & Hers 401 |]]></title>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/3bfUwrX5SSI</link>
             <guid isPermaLink="false">7ea01a3f-e3c4-472e-a2af-f8dd9cca8cd8</guid>
             <pubDate>Tue, 03 May 2016 04:07:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kadima | Would you end a 10 year relationship? 304 |]]></title>
-            <description><![CDATA[<article><h1>Kadima | Would you end a 10 year relationship? 304 |</h1><p>Richie and Kelly Ann give us final suggestions on how to save a relationship on the rocks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6426b0d06cc7446be1cf9c54bdf76df1bae9365.jpg"></article>]]></description>
-            <link>https://youtu.be/0v5-hXRkfDA</link>
-            <guid isPermaLink="false">908e5eb3-c4a4-4c5a-9499-a3a267824f0b</guid>
-            <pubDate>Tue, 03 May 2016 04:04:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

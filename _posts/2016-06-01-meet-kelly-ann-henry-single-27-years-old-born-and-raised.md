@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Meet Kelly-Ann Henry, single, 27 years old, born and raised by Kelly and Queenet Henry in the beautiful community of Mt. Harman, Grand Anse.'
-datePublished: '2016-06-01T16:48:04.075Z'
-dateModified: '2016-06-01T16:45:11.601Z'
+datePublished: '2016-06-07T17:21:40.798Z'
+dateModified: '2016-06-07T17:21:33.499Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-01-meet-kelly-ann-henry-single-27-years-old-born-and-raised.md
@@ -23,9 +23,7 @@ Meet Kelly-Ann Henry, single, 27 years old, born and raised by Kelly and Queenet
 
 She's a no nonsense person with a big heart and razor sharp wit. A travel bug at heart and softee for fluffy, furry friends.
 
-Her first television appearance was as young as eight years, when she was chosen to tell stories with beloved Tanty on 'Story Time'. Remember, 
-
-* _'Crick crack, Monkey break e back, On a rotten pomerac'_
+Her first television appearance was as young as eight years, when she was chosen to tell stories with beloved Tanty on 'Story Time'. Remember,_'Crick crack, Monkey break e back, On a rotten pomerac'_
 
 Reading her poem for Tanty was just the beginning of her love for public speaking. During her secondary school education, she developed an interest for the arts. She loves dancing, singing and most definitely enjoys a good debate. In fact, she was an avid member of her school's debate and public speaking team.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/664a00e5-5873-4d6a-a910-1b4514e12331.jpg)
